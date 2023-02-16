@@ -1,0 +1,27 @@
+.boxStyle {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box1 {
+  background-color: green;
+  height: 500px;
+  width: 500px;
+}
+.box2 {
+  background-color: blue;
+  height: 400px;
+  width: 400px;
+}
+.box3 {
+  background-color: pink;
+  height: 300px;
+  width: 300px;
+}
+.box4 {
+  background-color: purple;
+  height: 70px;
+  width: 150px;
+}

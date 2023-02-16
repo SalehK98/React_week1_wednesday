@@ -1,0 +1,17 @@
+.ToppingButton {
+  padding: 10px;
+  margin: 5px;
+  border: transparent;
+  border-radius: 5px;
+  background-color: #775148;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.ToppingButton:hover {
+  color: #800020;
+}
+
+.ToppingButton:active {
+  transform: translateY(3px) translateX(1px);
+}
